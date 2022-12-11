@@ -1,6 +1,6 @@
-package Factory_Method.factory;
+package Creational.Factory_Method.factory;
 
-import Factory_Method.buttons.Button;
+import Creational.Factory_Method.buttons.Button;
 
 public abstract class Dialog {
 

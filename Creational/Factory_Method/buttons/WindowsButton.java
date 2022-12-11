@@ -1,4 +1,4 @@
-package Factory_Method.buttons;
+package Creational.Factory_Method.buttons;
 
 import javax.swing.*;
 import java.awt.*;

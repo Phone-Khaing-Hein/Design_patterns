@@ -1,8 +1,8 @@
-package Factory_Method;
+package Creational.Factory_Method;
 
-import Factory_Method.factory.Dialog;
-import Factory_Method.factory.HtmlDialog;
-import Factory_Method.factory.WindowsDialog;
+import Creational.Factory_Method.factory.Dialog;
+import Creational.Factory_Method.factory.HtmlDialog;
+import Creational.Factory_Method.factory.WindowsDialog;
 
 public class Demo {
     private static Dialog dialog;
