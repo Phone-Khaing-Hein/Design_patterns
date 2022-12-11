@@ -6,12 +6,7 @@ import Creational.Abstract_Factory.factories.MacOSFactory;
 import Creational.Abstract_Factory.factories.WindowsFactory;
 
 public class Demo {
-
-    /**
-     * Application picks the factory type and creates it in run time (usually at
-     * initialization stage), depending on the configuration or environment
-     * variables.
-     */
+    
     private static Application configureApplication() {
         Application app;
         GUIFactory factory;
